@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋. I am Sonali Gupta. A computer science post graduate.
 
 <!--
 **m-sonaligupta/m-sonaligupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
