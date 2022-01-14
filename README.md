@@ -2,7 +2,7 @@
 I am Sonali Gupta, a computer science graduate.
 
 
-- 🔭 I’m currently working on understanding App Development  
+//- 🔭 I’m currently working on understanding App Development  
 - 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on App Development Projects
 - 🤔 I’m looking for help with JDBC and Servlets
